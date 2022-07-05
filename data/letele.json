@@ -1,5 +1,6 @@
 {
     "education": {
+        "id":"Education",
         "2016-2018":{
             "Qualification":"ND: Mathematical Technology",
             "Institude":"Cape Peninsula University of Technology",
@@ -38,6 +39,7 @@
         }
     },
     "employment":{
+        "id":"Employment",
         "Camara":{
             "Period":[2007,2009],
             "Title": "Lab Technician",
@@ -70,6 +72,7 @@
         }
     },
     "cover_letter":{
+        "id":"Cover letter",
         "p1":" I would like to express my interest for the vacant position in your company. Having commited hundreds to thousands lines of code to github,  I am assertive in typing on the keyboard and can stare at the moniter for hours and hours typing and deleting words that will, at the end of the day, add code on github. I have no fear in deleting what I typed if it proves useless and acknowledge that all code is garbage. The latter may rhyme because its true, but in all honestly I do not know what I am doing and as an employee, my job is to adapt to the employers environment and help best way I can as quickly as possible.",
         "p2":" Having used softwares such as SAS, MS Excel, PostgreSQL and programming languages that include Python, R, and JS and CSS, I am assertive in data analysis and develop web applications that meet both functionality and aesthtic design. From a card game like Hearts, to a rubik algorithm collector like cfop-algorithms, to an api that is only specific to rural water suppy structures, I try much as I can to diversify code I commit. Try me, and your ideas might be next one my commit history.",
         "p3":"I greatly appreciate your time and consideration of my candidacy in your organization.",
