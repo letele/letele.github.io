@@ -18,7 +18,7 @@
             "p5":"Where is the déjà vu? It is in the back and forth. In my previous lifetime I might have behaved in Venus, or misbehaved in Mars, or did nothing on Earth. Either route, I was reincarnated with the skills I had acquired. Therefore, I think it wise to focus rather on aggregates of actions we make on the conscious containers around us, rather that feeding desires of our own container. On Earth, we are all fractions of one, and if as a fraction we do not act accordingly, then there is a dysfunctional whole."
         }
     },
-    "spagetti_code":{
+    "spaghetti_code":{
         "title":"Spaghetti code",
         "body":{
             "p1":"Spaghetti code has no pattern. It is unique to the author and shows how ingenious the author is. Unfortunately readers cannot fully understand the logic behind the code because of its uniqueness and will always ask what the for loop in the if block does to the while condition. Readers will then try to give alternative solutions, which is where the arguments of code logic often begins. The solution has to declare what it solves, not how what is solved. You want to add 2 to each item, and not tell us you iterated through all items and added 2 on each item using the item's index value to identify its uniqueness, and ingenious approach indeed.",
