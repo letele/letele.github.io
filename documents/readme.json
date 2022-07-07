@@ -2,6 +2,7 @@
     "readme":{
         "id":"readme",
         "title":"README!!! README!!!  README!!!",
+        "type":"doc",
         "content":{
             "p1":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat laudantium rem deleniti, laboriosam quod neque hic accusantium voluptates error mollitia eum consequatur modi sed nemo, quibusdam iste placeat soluta ipsa",
             "p2":"Consectetur adipisicing elit. Eveniet culpa quo ut tempore corrupti blanditiis, temporibus vitae facilis esse atque",

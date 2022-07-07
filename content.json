@@ -1,89 +1,147 @@
 {
     "root":{
-        "applications":{
-            "id":"applications",
-            "title":"Applications",
-            "url":"/applications"
-        },
-        "documents":{
-            "id":"documents",
-            "title":"Documents",
-            "url":"/documents"
-        },
-        "templates":{
-            "id":"templates",
-            "title":"Templates",
-            "url":"/templates"
-        }
+        "children":[
+            {
+                "id":"applications",
+                "title":"Applications",
+                "url":"/applications"
+            },
+            {
+                "id":"documents",
+                "title":"Documents",
+                "url":"/documents"
+            },
+            {
+                "id":"templates",
+                "title":"Templates",
+                "url":"/templates"
+            }
+        ]
     },
-    "applications":{
-        "cfop-algorithms": {
-            "id":"cfop-algorithms",
-            "title":"CFOP Method",
-            "url":"/applications/cfop-algorithms.json"
-        },
-        "hearts": {
-            "id":"hearts",
-            "title":"Hearts in react",
-            "url":"/applications/hearts.json"
-        }
+    "applications":{    
+        "children":[
+            {
+                "id":"cfop-algorithms",
+                "title":"CFOP Method",
+                "url":"/applications/cfop-algorithms"
+            },
+            {
+                "id":"hearts",
+                "title":"Hearts in react",
+                "url":"/applications/hearts"
+            }
+        ],
+        "parents":["root"]
     },
     "documents":{
-        "letele":{
-            "id":"letele",
-            "title":"Letele",
-            "url":"/documents/letele",
-            "content":{
-                "cover_letter":{
-                    "id":"cover_letter",
-                    "title":"Cover letter",
-                    "url":"/documents/letele/cover_letter.json"
-                },
-                "education":{
-                    "id":"education",
-                    "title":"Education",
-                    "url":"/documents/letele/education.json"
-                },
-                "employment":{
-                    "id":"employment",
-                    "title":"Employment",
-                    "url":"/documents/letele/employment.json"
-                }
+        "children":[
+            {
+                "id":"letele",
+                "title":"Letele",
+                "url":"/documents/letele"
+            },
+            {
+                "id":"thoughts",
+                "title":"Thoughts",
+                "url":"/documents/thoughts"
+            },
+            {
+                "id":"readme",
+                "title":"Readme",
+                "url":"/documents/readme"
             }
-        },
-        "thoughts":{
-            "id":"thoughts",
-            "title":"Thoughts",
-            "url":"/documents/thoughts",
-            "content":{
-                "winlose":{
-                    "id":"winlose",
-                    "title":"A win-lose lose-win situation",
-                    "url":"/documents/thoughts/winlose.json"
-                },
-                "dejavu":{
-                    "id":"dejavu",
-                    "title":"Déjà vu",
-                    "url":"/documents/thoughts/dejavu.json"
-                },
-                "spaghetti_code":{
-                    "id":"spaghetti_code",
-                    "title":"Spaghetti code",
-                    "url":"/documents/thoughts/spaghetti_code.json"
-                }
-            }
-        },
-        "readme":{
-            "id":"readme",
-            "title":"Readme",
-            "url":"/documents/readme.json"
-        }
+        ],
+        "parents":["root"]
     },
     "templates":{
-       "refi":{
-        "id":"refi",
-        "title":"Templates",
-        "url":"/templates/refi.json"
-       }
+        "children":[
+            {
+                "id":"refi",
+                "title":"Templates",
+                "url":"/templates/refi"
+            } 
+        ],
+       "parents":["root"]
+    },
+    "letele":{
+        "children":[
+            {
+                "id":"cover_letter",
+                "title":"Cover letter",
+                "url":"/documents/letele/cover_letter"
+            },
+            {
+                "id":"education",
+                "title":"Education",
+                "url":"/documents/letele/education"
+            },
+            {
+                "id":"employment",
+                "title":"Employment",
+                "url":"/documents/letele/employment"
+            }
+
+        ],
+        "parents":["root","documents"]
+    },
+    "thoughts":{
+        "children":[
+            {
+                "id":"winlose",
+                "title":"A win-lose lose-win situation",
+                "url":"/documents/thoughts/winlose"
+            },
+            {
+                "id":"dejavu",
+                "title":"Déjà vu",
+                "url":"/documents/thoughts/dejavu"
+            },
+            {
+                "id":"spaghetti_code",
+                "title":"Spaghetti code",
+                "url":"/documents/thoughts/spaghetti_code"
+            }
+        ],
+        "parents":["root","documents"]
+    },
+    "cfop-algorithms": {
+        "url":"/applications/cfop-algorithms.json",
+        "parents":["root","applications"]
+    },
+    "hearts": {
+        "url":"/applications/hearts.json",
+        "parents":["root","applications"]
+    },
+    "cover_letter":{
+        "url":"/documents/letele/cover_letter.json",
+        "parents":["root","documents","letele"]
+    },
+    "education":{
+        "url":"/documents/letele/education.json",
+        "parents":["root","documents","letele"]
+    },
+    "employment":{
+        "url":"/documents/letele/employment.json",
+        "parents":["root","documents","letele"]
+    },
+    "winlose":{
+        "url":"/documents/thoughts/winlose.json",
+        "parents":["root","documents","thoughts"]
+    },
+    "dejavu":{
+        "url":"/documents/thoughts/dejavu.json",
+        "parents":["root","documents","thoughts"]
+    },
+    "spaghetti_code":{
+        "url":"/documents/thoughts/spaghetti_code.json",
+        "parents":["root","documents","thoughts"]
+    },
+    "readme":{
+        "url":"/documents/readme.json",
+        "parents":["root","documents"]
+    },
+    "refi":{
+        "url":"/templates/refi.json",
+        "parents":["root","templates"]
     }
 }
