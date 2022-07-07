@@ -1,0 +1,43 @@
+{
+    "id":"education",
+    "title":"Education",
+    "type":"list",
+    "content":{
+        "2016-2018":{
+            "Qualification":"ND: Mathematical Technology",
+            "Institude":"Cape Peninsula University of Technology",
+            "Place":"Bellville SA",
+            "Status":"Complete"
+        },
+        "2012-2013":{
+            "Qualification":"BSC: Financial Mathematics",
+            "Institude":"Stellenbosch University",
+            "Place":"Stellenbosch SA",
+            "Status":"Incomplete"
+        },
+        "2008-2011":{
+            "Qualification":"BSC: Mathematics, Physics, and Computer Science",
+            "Institude":"National University of Lesotho",
+            "Place":"Roma Lesotho",
+            "Status":"Incomplete"
+        },
+        "2006-2007":{
+            "Qualification":"COSC",
+            "Institude":"Sacred Heart High School",
+            "Place":"St. Monica Lesotho",
+            "Status":"Complete"
+        },
+        "2003-2005":{
+            "Qualification":"Junior Certificate",
+            "Institude":"National University of Lesotho International School",
+            "Place":"Roma Lesotho",
+            "Status":"Complete"
+        },
+        "1996-2002":{
+            "Qualification":"PSLE",
+            "Institude":"Morija English Medium School",
+            "Place":"Morija Lesotho",
+            "Status":"Complete"
+        }
+    }
+}

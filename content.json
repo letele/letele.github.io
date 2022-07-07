@@ -1,0 +1,89 @@
+{
+    "root":{
+        "applications":{
+            "id":"applications",
+            "title":"Applications",
+            "url":"/applications"
+        },
+        "documents":{
+            "id":"documents",
+            "title":"Documents",
+            "url":"/documents"
+        },
+        "templates":{
+            "id":"templates",
+            "title":"Templates",
+            "url":"/templates"
+        }
+    },
+    "applications":{
+        "cfop-algorithms": {
+            "id":"cfop-algorithms",
+            "title":"CFOP Method",
+            "url":"/applications/cfop-algorithms.json"
+        },
+        "hearts": {
+            "id":"hearts",
+            "title":"Hearts in react",
+            "url":"/applications/hearts.json"
+        }
+    },
+    "documents":{
+        "letele":{
+            "id":"letele",
+            "title":"Letele",
+            "url":"/documents/letele",
+            "content":{
+                "cover_letter":{
+                    "id":"cover_letter",
+                    "title":"Cover letter",
+                    "url":"/documents/letele/cover_letter.json"
+                },
+                "education":{
+                    "id":"education",
+                    "title":"Education",
+                    "url":"/documents/letele/education.json"
+                },
+                "employment":{
+                    "id":"employment",
+                    "title":"Employment",
+                    "url":"/documents/letele/employment.json"
+                }
+            }
+        },
+        "thoughts":{
+            "id":"thoughts",
+            "title":"Thoughts",
+            "url":"/documents/thoughts",
+            "content":{
+                "winlose":{
+                    "id":"winlose",
+                    "title":"A win-lose lose-win situation",
+                    "url":"/documents/thoughts/winlose.json"
+                },
+                "dejavu":{
+                    "id":"dejavu",
+                    "title":"Déjà vu",
+                    "url":"/documents/thoughts/dejavu.json"
+                },
+                "spaghetti_code":{
+                    "id":"spaghetti_code",
+                    "title":"Spaghetti code",
+                    "url":"/documents/thoughts/spaghetti_code.json"
+                }
+            }
+        },
+        "readme":{
+            "id":"readme",
+            "title":"Readme",
+            "url":"/documents/readme.json"
+        }
+    },
+    "templates":{
+       "refi":{
+        "id":"refi",
+        "title":"Templates",
+        "url":"/templates/refi.json"
+       }
+    }
+}

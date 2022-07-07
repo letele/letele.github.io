@@ -1,0 +1,37 @@
+{
+    "id":"employment",
+    "title":"Employment",
+    "type":"list",
+    "body":{
+        "Camara":{
+            "Period":[2007,2009],
+            "Title": "Lab Technician",
+            "Description":"Refurbish donated computers and install Ubuntu operating system in them."
+        },
+        "Teflo Contractors":{
+            "Period":[2011, 2014, 2015, 2019],
+            "Title": "Project Manager",
+            "Description":"Manage construction projects of Teflo Contractors. Specifically Rural Water Supply and Sanitation projects in Lesotho."
+        },
+        "CPUT":{
+            "Period":[2018],
+            "Title": "Library Assistant",
+            "Description":"Assist with Check-in/out process of books. Assist students at Help Desk. Keep library organized and clean."
+        },
+        "Numeric":{
+            "Period":[2018],
+            "Title": "Mathematics Coach",
+            "Description":"Coach Mathematics to grade 7 students of Merry Dale Primary School in Mitchell's Plain."
+        },
+        "Eighty20":{
+            "Period":[2018,2019],
+            "Title": "Junior ETL Developer (Internship)",
+            "Description":"Extract, Transform and Load data from survey files to Eighty20's data portal."
+        },
+        "Montsa Construction":{
+            "Period":[2020,2021,2022],
+            "Title": "Managing Director",
+            "Description":"Manage and direct the sustainability of Montsa Construction (Pty) Ltd."
+        }
+    }
+}
