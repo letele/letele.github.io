@@ -57,7 +57,7 @@
         "children":[
             {
                 "id":"refi",
-                "title":"Templates",
+                "title":"React and Firebase Boilerplate",
                 "url":"/templates/refi"
             } 
         ],
