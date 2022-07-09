@@ -105,43 +105,43 @@
         "parents":["root","documents"]
     },
     "cfop-algorithms": {
-        "url":"/applications/cfop-algorithms.json",
+        "url":"https://letele.github.io/applications/cfop-algorithms.json",
         "parents":["root","applications"]
     },
     "hearts": {
-        "url":"/applications/hearts.json",
+        "url":"https://letele.github.io/applications/hearts.json",
         "parents":["root","applications"]
     },
     "cover_letter":{
-        "url":"/documents/letele/cover_letter.json",
+        "url":"https://letele.github.io/documents/letele/cover_letter.json",
         "parents":["root","documents","letele"]
     },
     "education":{
-        "url":"/documents/letele/education.json",
+        "url":"https://letele.github.io/documents/letele/education.json",
         "parents":["root","documents","letele"]
     },
     "employment":{
-        "url":"/documents/letele/employment.json",
+        "url":"https://letele.github.io/documents/letele/employment.json",
         "parents":["root","documents","letele"]
     },
     "winlose":{
-        "url":"/documents/thoughts/winlose.json",
+        "url":"https://letele.github.io/documents/thoughts/winlose.json",
         "parents":["root","documents","thoughts"]
     },
     "dejavu":{
-        "url":"/documents/thoughts/dejavu.json",
+        "url":"https://letele.github.io/documents/thoughts/dejavu.json",
         "parents":["root","documents","thoughts"]
     },
     "spaghetti_code":{
-        "url":"/documents/thoughts/spaghetti_code.json",
+        "url":"https://letele.github.io/documents/thoughts/spaghetti_code.json",
         "parents":["root","documents","thoughts"]
     },
     "readme":{
-        "url":"/documents/readme.json",
+        "url":"https://letele.github.io/documents/readme.json",
         "parents":["root","documents"]
     },
     "refi":{
-        "url":"/templates/refi.json",
+        "url":"https://letele.github.io/templates/refi.json",
         "parents":["root","templates"]
     }
 }
