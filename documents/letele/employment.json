@@ -2,7 +2,7 @@
     "id":"employment",
     "title":"Employment",
     "type":"list",
-    "body":{
+    "content":{
         "Camara":{
             "Period":[2007,2009],
             "Title": "Lab Technician",
