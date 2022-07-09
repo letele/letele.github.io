@@ -4,15 +4,15 @@
     "type":"doc",
     "content":{
         "p1":"This application outlines algorithms used in solving the rubik's cube using the CFOP method",
-        "p2heading":"Available algorithms are:",
-        "p3list":[
+        "h1":"Available algorithms are:",
+        "ul1":[
             "First two layers",
             "Orientation of the last layer",
             "Permutation of the last layer"
         ],
-        "p4heading":"A symmetrical approach",
-        "p5":"All the algorithms were combined with a symmetrical acknowledgement of the rubik's cube and are not necessarily the most efficient solutions.",
-        "p6":"View project at: ",
-        "p7link":"https://cfop-algorithms.vercel.app/"
+        "h2":"A symmetrical approach",
+        "p2":"All the algorithms were combined with a symmetrical acknowledgement of the rubik's cube and are not necessarily the most efficient solutions.",
+        "p3":"View project at: ",
+        "a1":"https://cfop-algorithms.vercel.app/"
     }
 }
