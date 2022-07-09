@@ -3,7 +3,7 @@
     "title":"CFOP Method",
     "type":"doc",
     "content":{
-        "p1":"This projects outlines algorithms used in solving the rubik's cube using the CFOP method",
+        "p1":"This application outlines algorithms used in solving the rubik's cube using the CFOP method",
         "p2heading":"Available algorithms are:",
         "p3list":[
             "First two layers",

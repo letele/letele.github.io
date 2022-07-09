@@ -3,21 +3,21 @@
     "title":"React and Firebase Boilerplate",
     "type":"doc",
     "content":{
-        "p1heading1":"Features:",
+        "p1heading":"Features:",
         "p2list":[
             "Authetication and authorization of users.",
             "create, read, update, delete, app data.",
             "Basic statistical analysis of app data."
         ],
-        "p3heading1":"Project setup",
-        "p4heading2":"react",
+        "p3heading":"Project setup",
+        "p4heading":"react",
         "p5":"Open terminal and run the following",
         "p6list":[
             "git clone https://github.com/letele/refi.git",
             "cd refi",
             "npm install"
         ],
-        "p7heading2":"firebase",
+        "p7heading":"firebase",
         "p8":[
             "Visit firebase and create project",
             "create .env file in root folder and store firebase configurations"
