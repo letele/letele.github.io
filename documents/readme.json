@@ -1,17 +1,15 @@
 {
-    "readme":{
-        "id":"readme",
-        "title":"README!!! README!!!  README!!!",
-        "type":"doc",
-        "content":{
-            "p1":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat laudantium rem deleniti, laboriosam quod neque hic accusantium voluptates error mollitia eum consequatur modi sed nemo, quibusdam iste placeat soluta ipsa",
-            "p2":"Consectetur adipisicing elit. Eveniet culpa quo ut tempore corrupti blanditiis, temporibus vitae facilis esse atque",
-            "p3":[
-                "Mollitia, alias quia quas nemo enim reiciendis?",
-                "Nobis labore aut at esse temporibus ratione sit magnam ad veniam quas?",
-                "1 + 1 = 11"
-            ],
-            "p4":"Assumenda amet aut incidunt quo quibusdam sed corporis voluptatem! Eaque dolorum atque facilis delectus veniam  nulla!  Doloremque necessitatibus ..."
-        }
-    }
+    "id":"readme",
+    "title":"README!!! README!!!  README!!!",
+    "type":"doc",
+    "content":{
+        "p1":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat laudantium rem deleniti, laboriosam quod neque hic accusantium voluptates error mollitia eum consequatur modi sed nemo, quibusdam iste placeat soluta ipsa",
+        "p2":"Consectetur adipisicing elit. Eveniet culpa quo ut tempore corrupti blanditiis, temporibus vitae facilis esse atque",
+        "p3":[
+            "Mollitia, alias quia quas nemo enim reiciendis?",
+            "Nobis labore aut at esse temporibus ratione sit magnam ad veniam quas?",
+            "1 + 1 = 11"
+        ],
+        "p4":"Assumenda amet aut incidunt quo quibusdam sed corporis voluptatem! Eaque dolorum atque facilis delectus veniam  nulla!  Doloremque necessitatibus ..."
+    }   
 }
