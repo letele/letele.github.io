@@ -32,7 +32,7 @@
             }
         ],
         "parents":["root"],
-        "url":"/applications"
+        "href":"/applications"
     },
     "documents":{
         "children":[
@@ -53,7 +53,7 @@
             }
         ],
         "parents":["root"],
-        "url":"/documents"
+        "href":"/documents"
     },
     "templates":{
         "children":[
@@ -64,7 +64,7 @@
             } 
         ],
        "parents":["root"],
-       "url":"/templates"
+       "href":"/templates"
     },
     "letele":{
         "children":[
@@ -86,7 +86,7 @@
 
         ],
         "parents":["root","documents"],
-        "url":"/documents/letele"
+        "href":"/documents/letele"
     },
     "thoughts":{
         "children":[
@@ -107,7 +107,7 @@
             }
         ],
         "parents":["root","documents"],
-        "url":"/documents/thoughts"
+        "href":"/documents/thoughts"
     },
     "cfop-algorithms": {
         "url":"https://letele.github.io/applications/cfop-algorithms.json",
