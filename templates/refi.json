@@ -10,15 +10,15 @@
             "Basic statistical analysis of app data."
         ],
         "h2":"Project setup",
-        "h3":"react",
+        "h3":"React",
         "p1":"Open terminal and run the following",
-        "ul2":[
+        "ol1":[
             "git clone https://github.com/letele/refi.git",
             "cd refi",
             "npm install"
         ],
-        "h4":"firebase",
-        "ul3":[
+        "h4":"Firebase",
+        "ol2":[
             "Visit firebase and create project",
             "create .env file in root folder and store firebase configurations"
         ],
